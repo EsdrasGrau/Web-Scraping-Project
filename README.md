@@ -15,11 +15,12 @@ Each of the notebooks was made for the individual activities, where you can see 
 
 **CSV Files**
 For each step you will find a CSV file being the final_set.csv the final result.
-Transactions2019 - Original set
-Weather - Web Scrapping
-Holidays - API
-Clean Set - Original set cleaned
-Final Set - Merged Data Frame with all the previous info and complete clean.
+
+- Transactions2019 - Original set
+- Weather - Web Scrapping
+- Holidays - API
+- Clean Set - Original set cleaned
+- Final Set - Merged Data Frame with all the previous info and complete clean.
 
 P.S. You will see some Japanese during the coding process plus the results. It will be easy to understand I made it semi-bilingual.
 いつもありがとうございます。
