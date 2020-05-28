@@ -26,3 +26,21 @@ P.S. You will see some Japanese during the coding process plus the results. It w
 いつもありがとうございます。
 ご確認ください。
 宜しくお願いいたします。
+
+## Time 
+
+2 days
+
+## Author
+
+`EsdrasGrau`
+
+```
+|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+| CODING FERRET     |
+|___________________|
+(\__/) || 
+(•ㅅ•) || 
+/ 　 づ
+I'm a ferret, not a rabbit o(>ω<)o 
+```
