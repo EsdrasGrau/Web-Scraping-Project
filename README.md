@@ -23,7 +23,7 @@ For each step you will find a CSV file being the final_set.csv the final result.
 - Final Set - Merged Data Frame with all the previous info and complete clean.
 
 P.S. You will see some Japanese during the coding process plus the results. It will be easy to understand I made it semi-bilingual.
-いつもありがとうございます。
+いつもありがとうございます、
 ご確認ください。
 宜しくお願いいたします。
 
